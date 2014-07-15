@@ -1,0 +1,16 @@
+/*
+Theme Name: JetSetter
+Theme URI: http://wordpress.org/themes/twentyfourteen
+Author: stubs14
+Author URI: http://stbly.com/
+Description: A theme for world travelers
+Version: 1.0
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Tags: red, grey, navy blue, portfolio, clean, tiles
+Text Domain: twentyfourteen 
+
+*/
+
+@import 'css/normalize.css';
+@import 'css/jetsetter.css';
